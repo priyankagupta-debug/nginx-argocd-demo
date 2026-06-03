@@ -7,8 +7,8 @@ spec:
   project: default
 
   source:
-    repoURL: https://github.com/YOUR_USERNAME/nginx-argocd-demo.git
-    targetRevision: refs/heads/main
+    repoURL: https://github.com/priyankagupta-debug/nginx-argocd-demo.git
+    targetRevision: main
     path: workloads/nginx
 
   destination:
